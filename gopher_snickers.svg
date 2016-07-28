@@ -41,7 +41,7 @@
      inkscape:window-height="939"
      id="namedview4846"
      showgrid="false"
-     inkscape:zoom="0.78748696"
+     inkscape:zoom="0.19687174"
      inkscape:cx="740.87327"
      inkscape:cy="584.52575"
      inkscape:window-x="0"
@@ -1069,10 +1069,6 @@
      inkscape:connector-curvature="0"
      style="fill:#f4d3b2"
      sodipodi:nodetypes="cccccsccc" />
-  <path
-     fill="#ffffff"
-     d=" M 998.99 741.03 C 1013.50 732.61 1027.75 723.67 1042.42 715.59 L 1043.00 715.69 L 1043.00 959.00 L 869.62 959.00 C 870.74 947.37 869.78 935.63 870.14 923.95 C 893.90 908.04 917.52 891.93 941.27 875.99 C 928.91 864.70 915.96 854.04 903.23 843.17 C 913.58 842.09 924.06 843.03 934.47 842.66 C 934.53 821.55 934.26 800.42 934.60 779.31 C 955.88 766.29 977.56 753.83 998.99 741.03 Z"
-     id="path4734" />
   <ellipse
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:14;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path5425"
